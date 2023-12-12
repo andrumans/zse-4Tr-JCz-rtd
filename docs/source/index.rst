@@ -115,13 +115,6 @@ Lista Zadań wykonanych i niewykonanych
 - [x] Zadanie wykonane
 - [ ] Zadanie niewykonane    
 
-
-
-
-
-
-
-
 .. toctree::
 
     api 
